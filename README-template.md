@@ -25,8 +25,8 @@ Users have the ability to:
 
 ### Links
 
-- Solution URL: 
-- URL of the live site: 
+- Solution URL: https://ayakozmukiyat.github.io/Project-tracking-intro-component/
+- URL of the live site: https://ayakozmukiyat.github.io/Project-tracking-intro-component/
 
 ## My process
 
@@ -117,7 +117,7 @@ understand. I would recommend this to anyone who is still learning this JavaScri
 
 ## Author
 
-- Website - [Alikhan Serikov and Ayakoz Mukiyat] (https://nauryzrakhmanov .github.io/aaa /)
+- Website - [Alikhan Serikov and Ayakoz Mukiyat] (https://ayakozmukiyat.github.io/Project-tracking-intro-component/)
 - Mentor on the interface - [Togzhan Kurmanbek] 
 - Instagram - [@ayagoozm] (https://www.instagram.com/ayagoozm /) 
               [@sal1khb](https://www.instagram.com/sal1khb/)
